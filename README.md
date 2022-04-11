@@ -40,9 +40,10 @@
 - 로그인 / 회원가입 유효성 검사
 - localStorage 와 useState Hook을 사용한 로그인 전역관리
 
-![image](https://user-images.githubusercontent.com/24951988/162650319-36be1e6b-70b5-4026-a90e-509735982ca2.png)
 
 #### 2. 상품리스트 필터&검색기능 (담당 Part)
+
+![image](https://user-images.githubusercontent.com/24951988/162650319-36be1e6b-70b5-4026-a90e-509735982ca2.png)
 
 1)개요: 쿼리 파라미터를 활용한 다양한 기능구현
     - 다중필터 : 의류타입, 브랜드 , 사이즈별 필터링
