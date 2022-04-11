@@ -82,6 +82,7 @@
 - 장바구니 상품 수정 기능 구현: fetch(Patch 메소드) 활용
 
 #### 7. 결제 (담당 part)
+![image](https://user-images.githubusercontent.com/24951988/162651853-06d7e7da-9d96-4993-9912-9932453fc5ed.png)
 
 1)개요 : `JWT token`,`fetch`함수 활용한 서버 인터페이스
     - 결제 : `POST`메소드 통한 마일리지 차감
